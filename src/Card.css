@@ -1,0 +1,18 @@
+.card {
+    box-sizing: border-box;
+    background-color: white;
+    border: 3px solid #008080;
+    border-radius: 5px;
+    color: #008080;
+    height: auto;
+    padding: 20px;
+    width: 300px;
+  }
+
+  .cancel-btn {
+      background-color: #008080;
+      color: white;
+      font-size: 16px;
+      padding: 10px;
+      width: 200px;
+  }
